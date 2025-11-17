@@ -1,0 +1,2 @@
+jQuery(document).ready(function($){$(document).on('click','.wishlist-heart',function(e){e.preventDefault();const $heart=$(this);const icon=$heart.find('i');const productId=$heart.data('product-id');$.post(wc_wishlist_ajax.ajax_url,{action:'toggle_wishlist',product_id:productId,nonce:wc_wishlist_ajax.nonce},function(response){if(response.success){$heart.toggleClass('active');icon.toggleClass('fa-solid fa-regular')}})})})
+;

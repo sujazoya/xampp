@@ -1,0 +1,2 @@
+jQuery(document).ready(function($){$('.sml-card').hover(function(){$(this).addClass('is-hovered')},function(){$(this).removeClass('is-hovered')});$('.sml-card').on('click',function(e){var platform=$(this).attr('class').split(' ').find(cls=>cls.startsWith('sml-'));platform=platform?platform.replace('sml-',''):'unknown';console.log('Social media link clicked:',platform)})})
+;
