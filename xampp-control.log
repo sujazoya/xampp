@@ -1,0 +1,49 @@
+1:39:23 PM  [main] 	Initializing Control Panel
+1:39:23 PM  [main] 	Windows Version:  Enterprise  64-bit
+1:39:23 PM  [main] 	XAMPP Version: 8.2.12
+1:39:23 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+1:39:23 PM  [main] 	Running with Administrator rights - good!
+1:39:23 PM  [main] 	XAMPP Installation Directory: "n:\xampp\"
+1:39:23 PM  [main] 	Checking for prerequisites
+1:39:25 PM  [main] 	All prerequisites found
+1:39:25 PM  [main] 	Initializing Modules
+1:39:25 PM  [Apache] 	XAMPP Apache is already running on port 80
+1:39:25 PM  [Apache] 	XAMPP Apache is already running on port 443
+1:39:25 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+1:39:25 PM  [main] 	The FileZilla module is disabled
+1:39:25 PM  [main] 	The Mercury module is disabled
+1:39:25 PM  [main] 	Starting Check-Timer
+1:39:25 PM  [main] 	Control Panel Ready
+1:39:46 PM  [Apache] 	Status change detected: stopped
+1:39:46 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:39:46 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:39:46 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:39:46 PM  [Apache] 	Press the Logs button to view error logs and check
+1:39:46 PM  [Apache] 	the Windows Event Viewer for more clues
+1:39:46 PM  [Apache] 	If you need more help, copy and post this
+1:39:46 PM  [Apache] 	entire log window on the forums
+1:51:51 PM  [Apache] 	Attempting to start Apache app...
+1:51:51 PM  [Apache] 	Status change detected: running
+4:11:43 PM  [main] 	Deinitializing Modules
+4:11:43 PM  [main] 	Deinitializing Control Panel
+
+4:16:18 PM  [main] 	Initializing Control Panel
+4:16:18 PM  [main] 	Windows Version:  Enterprise  64-bit
+4:16:18 PM  [main] 	XAMPP Version: 8.2.12
+4:16:18 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+4:16:18 PM  [main] 	Running with Administrator rights - good!
+4:16:18 PM  [main] 	XAMPP Installation Directory: "f:\xampp\"
+4:16:18 PM  [main] 	Checking for prerequisites
+4:16:20 PM  [main] 	All prerequisites found
+4:16:20 PM  [main] 	Initializing Modules
+4:16:20 PM  [main] 	The FileZilla module is disabled
+4:16:20 PM  [main] 	The Mercury module is disabled
+4:16:20 PM  [main] 	Starting Check-Timer
+4:16:20 PM  [main] 	Control Panel Ready
+4:16:22 PM  [Apache] 	Attempting to start Apache app...
+4:16:22 PM  [Apache] 	Status change detected: running
+4:16:23 PM  [mysql] 	Attempting to start MySQL app...
+4:16:24 PM  [mysql] 	Status change detected: running
+4:53:50 PM  [main] 	Deinitializing Modules
+4:53:50 PM  [main] 	Deinitializing Control Panel
+
