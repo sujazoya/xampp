@@ -1,0 +1,32 @@
+.wpsb-share-buttons {
+    margin-top: 15px;
+    padding: 10px;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.wpsb-share-buttons a, .wpsb-share-buttons button {
+    text-decoration: none;
+    padding: 6px 12px;
+    background: #2d89ef;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s ease-in-out;
+}
+
+.wpsb-share-buttons .whatsapp { background: #25D366; }
+.wpsb-share-buttons .telegram { background: #0088cc; }
+.wpsb-share-buttons .facebook { background: #4267B2; }
+.wpsb-share-buttons .twitter { background: #1DA1F2; }
+.wpsb-share-buttons .copy-btn { background: #333; }
+
+.wpsb-share-buttons a:hover, .wpsb-share-buttons button:hover {
+    opacity: 0.85;
+}

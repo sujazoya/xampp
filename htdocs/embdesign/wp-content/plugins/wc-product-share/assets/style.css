@@ -1,0 +1,38 @@
+.wcaps-share-box {
+    margin-top: 25px;
+    padding-top: 15px;
+    border-top: 1px solid #ddd;
+}
+
+.wcaps-share-box strong {
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.wcaps-buttons a {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    transition: transform 0.2s ease;
+}
+
+.wcaps-buttons a:hover {
+    transform: scale(1.1);
+}
+
+.wcaps-buttons img {
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.qr-container {
+    margin-top: 15px;
+    text-align: left;
+}
+
+.qr-container canvas {
+    margin-bottom: 5px;
+}

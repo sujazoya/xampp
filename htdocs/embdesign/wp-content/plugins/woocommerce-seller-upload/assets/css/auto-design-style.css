@@ -1,0 +1,36 @@
+.auto-upload-container {
+    background: #eef8ff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px dashed #007acc;
+    border-radius: 8px;
+}
+.auto-upload-container label {
+    font-weight: bold;
+    display: block;
+    margin: 8px 0 4px;
+}
+.auto-upload-container input[type="text"],
+.auto-upload-container input[type="file"] {
+    width: 100%;
+    padding: 6px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+.auto-upload-container button {
+    margin-top: 10px;
+    background: #007acc;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.auto-upload-container button:hover {
+    background: #005b99;
+}
+.auto-upload-container .note {
+    font-size: 12px;
+    color: #555;
+    margin-top: 8px;
+}

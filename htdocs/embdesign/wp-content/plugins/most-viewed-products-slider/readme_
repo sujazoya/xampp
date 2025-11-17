@@ -1,0 +1,31 @@
+Key Features of This Improved Plugin:
+Responsive Grid Layout - Uses CSS Grid for better performance and responsiveness
+
+Mobile-First Design - Fully responsive with breakpoints for all device sizes
+
+Customizable Shortcode - Use with attributes:
+
+text
+[most_viewed_products_grid title="Popular Designs" columns="4" count="8" category="embroidery"]
+View Counter - Shows how many times each design has been viewed
+
+Sale Badges - Highlights products on sale
+
+Hover Effects - Subtle animations for better user experience
+
+Category Filtering - Show most viewed from specific categories
+
+Clean Design - Matches your embroidery shop aesthetic
+
+Installation:
+Create a folder /wp-content/plugins/most-viewed-products-grid/
+
+Add the PHP code as most-viewed-products-grid.php
+
+Create a css subfolder and add the CSS file
+
+Activate the plugin in WordPress
+
+Use the shortcode anywhere on your site
+
+This version removes the dependency on Slick Slider and uses pure CSS for better performance, while maintaining all the functionality of tracking and displaying your most viewed embroidery designs.
